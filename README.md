@@ -12,11 +12,19 @@ Get popular nepali names.
 
 #How to use
 
-To get random male and female names. randomMale() andn randomFemale() function can be used.
+To get random male and female names. Following function can be used.
 
 ```js
 
   let randNames = require('nepali-names');
-  randNames.randomMale() // To get random male names
 
+  randNames.all // To get all the nepali names.
+  randNames.randomFemale() // To get random nepali female names.
+  randNames.randomMale() // To get random nepali male names.
+  randNames.allFemale() // To get all the nepali female names.
+  randNames.allMale() // To get all the nepali male names.
 ```
+
+# LICENSE
+
+This is under MIT Licesnse.

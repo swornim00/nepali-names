@@ -1,7 +1,7 @@
 {
   "name": "nepali-names",
   "version": "1.0.0",
-  "description": "Random Nepali names.",
+  "description": "Get random Nepali male and female names.",
   "main": "index.js",
   "scripts": {
     "test": "npm test.js"
