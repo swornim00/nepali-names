@@ -23,8 +23,8 @@ To get random male and female names. Following function can be used.
   randNames.all // To get all the nepali names.
   randNames.randomFemale() // To get random nepali female names.
   randNames.randomMale() // To get random nepali male names.
-  randNames.allFemale() // To get all the nepali female names.
-  randNames.allMale() // To get all the nepali male names.
+  randNames.allFemale // To get all the nepali female names.
+  randNames.allMale // To get all the nepali male names.
 ```
 
 # LICENSE
