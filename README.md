@@ -1,5 +1,7 @@
 # nepali-names [![Build Status](https://travis-ci.org/bravegurkha/nepali-names.svg?branch=master)](https://travis-ci.org/bravegurkha/nepali-names)
 
+![](kali.jpg)
+
 Get popular nepali names.
 
 # How To Install
@@ -27,4 +29,4 @@ To get random male and female names. Following function can be used.
 
 # LICENSE
 
-This is under MIT Licesnse.
+This is under [MIT](https://opensource.org/licenses/mit-license.php) Licesnse.
