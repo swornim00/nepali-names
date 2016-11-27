@@ -27,6 +27,11 @@ To get random male and female names. Following function can be used.
   randNames.allMale // To get all the nepali male names.
 ```
 
+# Data Source
+
+  The data was taken from :
+  **[studenton/gender-data](https://github.com/studenton/gender-data)**
+
 # LICENSE
 
 This is under [MIT](https://opensource.org/licenses/mit-license.php) Licesnse.
