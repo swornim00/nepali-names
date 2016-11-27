@@ -1,0 +1,23 @@
+{
+  "name": "nepali-names",
+  "version": "1.0.0",
+  "description": "Random Nepali names.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bravegurkha/nepali-names"
+  },
+  "keywords": [
+    "nepali",
+    "names",
+    "random names"
+  ],
+  "author": "Swornim Shrestha <srestaswrnm@gmail.com>",
+  "license": "MIT",
+  "dependencies" : {
+    "unique-random-array": "^1.0.0"
+  }
+}
